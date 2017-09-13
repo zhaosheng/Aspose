@@ -1,0 +1,50 @@
+[
+  {
+    "Company": "Apple",
+    "Quarter": "2016-Q1",
+    "Revenue": "11",
+    "YoY": "0.3"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2016-Q2",
+    "Revenue": "18",
+    "YoY": "0.21"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2016-Q3",
+    "Revenue": "21",
+    "YoY": "0.19"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2016-Q4",
+    "Revenue": "21",
+    "YoY": "0.53"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2017-Q1",
+    "Revenue": "23",
+    "YoY": "0.13"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2017-Q2",
+    "Revenue": "31",
+    "YoY": "0.3"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2017-Q3",
+    "Revenue": "16",
+    "YoY": "0.12"
+  },
+  {
+    "Company": "Apple",
+    "Quarter": "2017-Q4",
+    "Revenue": "19",
+    "YoY": "0.3"
+  }
+]
